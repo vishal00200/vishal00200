@@ -1,5 +1,5 @@
 👋 Hi, I’m @vishal00200
-👀 I’m interested in Data Science, Machine Learning Data Analytics and Data Engineering
+👀 I’m interested in Data Analytics and Data Engineering
 🌱 I’m currently learning Data Science, Machine Learning.
 📫 How to reach me vishal00200ry@gmail.com
 ✨ Linkedin Profile: https://www.linkedin.com/in/vishal-y/
